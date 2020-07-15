@@ -1,7 +1,5 @@
-# Build and deploy machine learning web app using PyCaret and Streamlit
-#### A beginner's guide to deploy machine learning app on Heroku PaaS
-
-Read the complete post: XXXX
+# PyCaret Demo July 16, 2020
+#### Introduction to PyCaret
 
 - Official Website : https://www.pycaret.org
 
